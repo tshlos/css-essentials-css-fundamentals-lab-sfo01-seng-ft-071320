@@ -15,5 +15,9 @@ header {
 #details {
   background-color: red;
   display: flex;
+
+}
+
+#details > div {
   flex-grow: 1;
 }
