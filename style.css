@@ -14,7 +14,8 @@ header {
 
 #featured-property p {
   width: 800px;
-  
+  margin-right: auto;
+  margin-left: auto;
 }
 
 #details {
