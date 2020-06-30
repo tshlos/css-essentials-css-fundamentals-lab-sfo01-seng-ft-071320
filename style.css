@@ -12,6 +12,10 @@ header {
   text-align: center;
 }
 
+#featured-property p {
+  width: 800px;
+}
+
 #details {
   background-color: red;
   display: flex;
