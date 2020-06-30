@@ -20,4 +20,5 @@ header {
 
 #details > div {
   flex-grow: 1;
+  text-align: center;
 }
